@@ -1,2 +1,2 @@
-# Website
- 
+# SwimTech  
+Static website project
